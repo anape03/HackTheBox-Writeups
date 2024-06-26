@@ -1,11 +1,17 @@
 (Following Guided Mode)
 
-# TwoMillion
+<div style="display: flex; align-items: center;">
+  <img src="https://labs.hackthebox.com/storage/avatars/d7bc2758fb7589dfa046bee9ce4d75cb.png" alt="TwoMillion Machine Avatar" style="margin-right: 20px;" width="170"/>
+  <div>
+    <p style="font-size:35px;"><b>TwoMillion</b></p>
+    <p style="font-size:20px;">Linux • <font color="#8ac73e">Easy</font></p>
+  </div>
+</div>
 
 ## Nmap scan
 
 We have the machine IP.
-Through an nmap scan we see the following:
+Through an nmap scan we see the following: 
 ```bash
 $ sudo nmap -sV -sC 10.10.11.221
 [sudo] password for kali: 
@@ -72,8 +78,8 @@ function makeInviteCode(){
 }
 ```
 
-The 2nd function `makeInviteCode()` includes a url that's used to generate am invote code.\
-It uses a plain `POST` request to said url, and receives a respnse in `JSON`.
+The 2nd function `makeInviteCode()` includes a url that's used to generate an invite code.\
+It uses a plain `POST` request to said url, and receives a response in `JSON`.
 
 We will be using `cURL`.
 
@@ -182,7 +188,7 @@ So `/api` includes `/api/v1`, which we already knew.
 }
 ```
 
-From this response we see that appart from `/api/v1/user` there is also `/api/v1/admin` with 3 different urls underneath it.
+From this response we see that apart from `/api/v1/user` there is also `/api/v1/admin` with 3 different urls underneath it.
 
 `GET /api/v1/admin/auth`:
 ```json

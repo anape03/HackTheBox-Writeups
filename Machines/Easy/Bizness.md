@@ -1,6 +1,12 @@
 (Following Guided Mode)
 
-# Bizness
+<div style="display: flex; align-items: center;">
+  <img src="https://labs.hackthebox.com/storage/avatars/1919b64800f6676d0c0d285a9d664cee.png" alt="Bizness Machine Avatar" style="margin-right: 20px;" width="170"/>
+  <div>
+    <p style="font-size:35px;"><b>Bizness</b></p>
+    <p style="font-size:20px;">Linux • <font color="#8ac73e">Easy</font></p>
+  </div>
+</div>
 
 ## Nmap scan
 
