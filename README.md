@@ -17,7 +17,7 @@ This is a collection of writeups for different Machines and Challenges I have co
 | SolarLab | Medium | Windows | |
 | [Lame](Machines/Easy/Lame.md) | Easy | Linux | Vulnerability Assessment, Enterprise Network | Common Service, Security Tools, Software & OS Exploitation
 | Usage | Easy | Linux | |
-| Jab | Medium | Windows | |
+| [Jab](Machines/Medium/Jab.md) | Medium | Windows | Web Application | Common Applications
 
 ## Challenges
 
