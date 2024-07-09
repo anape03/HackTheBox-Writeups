@@ -10,7 +10,7 @@ This is a collection of writeups for different Machines and Challenges I have co
 | [Bizness](Machines/Easy/Bizness.md) | Easy | Linux | Web Application | Databases, Common Applications
 | Headless | Easy | Linux | | 
 | BoardLight | Easy | Linux | | 
-| [Perfection](Machines/Easy/Perfection.md) | Easy | Linux |  | 
+| [Perfection](Machines/Easy/Perfection.md) | Easy | Linux | Web Application | Injections
 | Mailing | Easy | Windows | |
 | Editorial | Easy | Linux | |
 | IClean | Medium | Linux | |
