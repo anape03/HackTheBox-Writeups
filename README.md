@@ -8,7 +8,7 @@ This is a collection of writeups for different Machines and Challenges I have co
 |:-------:|:----------:|:--:|------------|-----------------
 | [Twomillion](Machines/Easy/TwoMillion.md) | Easy | Linux | Web Application | Injections
 | [Bizness](Machines/Easy/Bizness.md) | Easy | Linux | Web Application | Databases, Common Applications
-| Headless | Easy | Linux | | 
+| [Headless](Machines/Easy/Headless.md) | Easy | Linux | Web Application, Vulnerability Assessment | Injections, Session Management and Hijacking
 | BoardLight | Easy | Linux | | 
 | [Perfection](Machines/Easy/Perfection.md) | Easy | Linux | Web Application | Injections
 | Mailing | Easy | Windows | |
@@ -18,6 +18,8 @@ This is a collection of writeups for different Machines and Challenges I have co
 | [Lame](Machines/Easy/Lame.md) | Easy | Linux | Vulnerability Assessment, Enterprise Network | Common Service, Security Tools, Software & OS Exploitation
 | Usage | Easy | Linux | |
 | [Jab](Machines/Medium/Jab.md) | Medium | Windows | Web Application | Common Applications
+| Runner | Medium | Linux | |
+| PermX | Easy | Linux | |
 
 ## Challenges
 
